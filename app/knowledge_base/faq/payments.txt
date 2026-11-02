@@ -1,0 +1,19 @@
+PAYMENTS FAQ
+
+Q: What payment information is required when placing an order?
+A: Customers must provide valid payment information when placing an order.
+
+Q: How do I know if my payment was successful?
+A: Payment confirmation is required before an order can be processed.
+
+Q: What should I do if my payment failed?
+A: Customers should contact human support for assistance with payment problems.
+
+Q: Why is my order not being processed?
+A: The order may require payment confirmation before it can be processed.
+
+Q: Can customer support provide my payment information?
+A: Customer support does not provide payment information unless it is necessary to resolve the customer's issue.
+
+Q: What information should I provide about a payment problem?
+A: Customers should provide their order ID and explain the payment problem to human support.

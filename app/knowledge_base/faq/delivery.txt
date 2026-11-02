@@ -1,0 +1,19 @@
+DELIVERY FAQ
+
+Q: How can I check my delivery status?
+A: Customers can provide their order ID to check the current delivery status.
+
+Q: How long will my delivery take?
+A: Delivery time depends on the current status of the order and available delivery information.
+
+Q: What does "preparing" mean?
+A: It means the order is still being prepared and has not yet been shipped.
+
+Q: What does "shipped" mean?
+A: It means the order has been shipped and is in the delivery process.
+
+Q: Where is my order?
+A: Customers can check the order status using their order ID. For specific location information, they may contact human support.
+
+Q: What should I do if my delivery is delayed?
+A: Customers should provide their order ID and contact human support for assistance with delivery issues.

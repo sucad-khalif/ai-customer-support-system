@@ -1,0 +1,13 @@
+DELIVERY POLICY
+
+1. Customers can check their order status using a valid order ID.
+
+2. Delivery information depends on the current status of the order.
+
+3. Orders that are still being prepared have not yet been shipped.
+
+4. Once an order is shipped, delivery information may become available.
+
+5. Customers who need specific delivery or location information may contact human support.
+
+6. Customers should provide their order ID when requesting delivery assistance.

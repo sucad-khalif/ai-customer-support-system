@@ -1,5 +1,41 @@
+
+# Python
 .venv/
+venv/
 __pycache__/
-*.pyc
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
 .env
+.env.*
+!.env.example
+
+# Frontend dependencies
+node_modules/
+frontend/node_modules/
+
+# Build files
+dist/
+frontend/dist/
+build/
+
+# Vector database
+chroma_db/
+
+# IDE settings
 .vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Security files
+app/JWT key secret.txt
+
+# Nested vector database
+app/app/chroma_db/

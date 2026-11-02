@@ -1,0 +1,19 @@
+ORDERS FAQ
+
+Q: How can I check my order status?
+A: Customers can provide their order ID to check the current status of their order.
+
+Q: What information do I need to check my order?
+A: Customers should provide a valid order ID.
+
+Q: What does "preparing" mean?
+A: It means the order is currently being prepared and has not yet been shipped.
+
+Q: What does "shipped" mean?
+A: It means the order has been shipped and is in the delivery process.
+
+Q: What does "delivered" mean?
+A: It means the order has been delivered to the customer.
+
+Q: What should I do if I cannot find my order?
+A: Customers should check that their order ID is correct or contact human support for assistance.
